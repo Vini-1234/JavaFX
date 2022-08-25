@@ -1,0 +1,59 @@
+
+.calculadora{
+	-fx-background-color: #323233;
+	-fx-opacity: 0.90;
+	-fx-background-radius: 4;
+	-fx-border-radius: 4;
+}
+.display{
+	-fx-background-color: #494C4E;
+	-fx-pref-height: 70px;
+
+}
+
+.letter{
+	-fx-font-size: 44px;
+    -fx-text-fill: #FFF;
+}
+
+.button{
+	-fx-background-color: #636465;
+	-fx-font-size: 21px;
+    -fx-text-fill: #FFF;
+	-fx-min-height: 46px;
+	-fx-min-width: 56px;
+
+}
+
+.grayButton{
+	-fx-background-color: #A9A9A9;
+	-fx-font-size: 14px;
+}
+
+.yellowButton{
+	-fx-background-color: #FFD700;
+	-fx-font-size: 16px;
+}
+
+.button:pressed {
+	-fx-background-color: #BBB;
+}
+
+.tButton{
+	
+	-fx-font-size: 18px;
+	-fx-text-fill: #000;
+	-fx-min-height: 20px;
+	-fx-max-height: 20px;
+	-fx-min-width: 20px;
+	-fx-max-width: 20px;
+	-fx-background-radius: 10px;
+	-fx-background-color: #F9544D;
+	-fx-padding: -4 0 0 0;
+
+}
+
+.title{
+	-fx-background-color: #494C4E;
+}
+
